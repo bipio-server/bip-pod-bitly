@@ -21,7 +21,7 @@
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport-bitly": "git://github.com/simov/passport-bitly.git",
-    "request": "2.29.0"
+    "request": "2.88.0"
   },
   "engines": {
     "node": ">= 0.10.0"
